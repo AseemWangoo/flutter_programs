@@ -22,22 +22,15 @@ class UserOptions extends StatefulWidget {
 
 class UserOptionsState extends State<UserOptions> {
   @override
-  Widget build(BuildContext context) {    
-    // return new Container(
-    //   child: new Column(
-    //     children: <Widget>[
-    //       new Text('data'),
-    //       new Text('data')
-    //     ],
-    //   ),
-    // ); for 2 buttons vertically without Mat. UI
-
+  Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
         title: new Text('data'),
       ),
-      body: new Container(
+      body: new Center(
+          child: new Container(
         child: new Column(
+          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: <Widget>[
             new Builder(
               builder: (BuildContext context) {
@@ -65,7 +58,7 @@ class UserOptionsState extends State<UserOptions> {
             )
           ],
         ),
-      ),
+      )),
     );
   }
 }
