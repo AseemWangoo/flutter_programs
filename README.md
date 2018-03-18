@@ -7,4 +7,4 @@ Snackbar.dart -> this creates a snackbar whenever we click on the raised button.
 
 Vertical Buttons.dart - > 2 buttons aligned vertically. Click on each button and it shows snackbars respectively.
 
-![Vertical Buttons](/Vertical Buttons.png?raw=true "Vertical Buttons")
+![Vertical_buttons](/Vertical_buttons.png?raw=true "Vertical_Buttons")
