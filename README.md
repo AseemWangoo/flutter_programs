@@ -8,3 +8,5 @@ Vertical Buttons.dart -> 2 buttons aligned vertically. Click on each button and 
 CapsuleButton.dart -> 2 capsule buttons aligned vertically. Click on each button and it shows snackbars respectively.
 
 Navigation.dart -> Navigation between different screens in the application.
+
+HorizontalListView.dart -> Display the listview in the horizontal direction.
