@@ -10,3 +10,5 @@ CapsuleButton.dart -> 2 capsule buttons aligned vertically. Click on each button
 Navigation.dart -> Navigation between different screens in the application.
 
 HorizontalListView.dart -> Display the listview in the horizontal direction.
+
+TextField.dart -> Retrieve the text on button click, onSubmit Event and onChange Event of text field.
