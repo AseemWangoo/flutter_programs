@@ -13,4 +13,6 @@ HorizontalListView.dart -> Display the listview in the horizontal direction.
 
 TextField.dart -> Retrieve the text on button click, onSubmit Event and onChange Event of text field.
 
+InternetConnectivity.dart -> Retrieve the type of mobile network (wifi/mobile data or none)
+
 FutureBuilder_part1.dart -> Retrieve the data from web service and create widget when data is received.
