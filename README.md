@@ -18,3 +18,7 @@ InternetConnectivity.dart -> Retrieve the type of mobile network (wifi/mobile da
 FutureBuilder_part1.dart -> Retrieve the data from web service and create widget when data is received.
 
 FutureBuilder_part2.dart -> Retrieve the data from web service on button click and create widget when data is received.
+
+gradient_image.dart -> Apply the gradient on the images in Flutter.
+
+gradient_text.dart -> Apply the gradient on the text in Flutter.
