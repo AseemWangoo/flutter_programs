@@ -30,3 +30,5 @@ StepperWithForm.dart -> With the help of stepper functionality, created a form f
 GoogleSignIn.zip -> Using firebase, created sign in and sign out process with Google. Contains 2 files, main.dart(for displaying buttons) and Detail Screen.dart (for displaying data from firebase)
 
 MLKit.dart -> Start using Machine Learning to detect text from images.
+
+imagepicker.dart -> Select the image from the gallery/camera and it gets displayed on the screen.
