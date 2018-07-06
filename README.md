@@ -32,3 +32,5 @@ GoogleSignIn.zip -> Using firebase, created sign in and sign out process with Go
 MLKit.dart -> Start using Machine Learning to detect text from images.
 
 imagepicker.dart -> Select the image from the gallery/camera and it gets displayed on the screen.
+
+barcode.dart -> Scans the barcode and displays the number onto the screen...
