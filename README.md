@@ -40,3 +40,5 @@ FbSignIn.zip -> Using firebase, created sign in and sign out process with Facebo
 image_labeling.dart -> Image labeling using Machine Learning (MLKit powered by Google) to detect labels from images.
 
 Shapes.dart -> Draw rectangle/oval/circle in Flutter.
+
+face_detect.dart -> Detect faces from the images using MLKit in Flutter.
