@@ -46,3 +46,5 @@ face_detect.dart -> Detect faces from the images using MLKit in Flutter.
 TwitterSignInWebsite -> Using firebase, created sign in and sign out process with Twitter. Contains 2 files, main.dart(for displaying buttons) and Detailed Screen.dart (for displaying data from firebase)
 
 Animation.dart -> Simple animation of Flutter logo on the main screen
+
+GraphQL.dart -> How to use GraphQL in Flutter.
