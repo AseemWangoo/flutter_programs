@@ -50,3 +50,5 @@ Animation.dart -> Simple animation of Flutter logo on the main screen
 GraphQL.dart -> How to use GraphQL in Flutter.
 
 ShapeBorderClipper.dart -> Make the stylish rectangular cuts into the body of your app.( similar to Shrine App of Google I/O 18)
+
+WebView.dart -> Launch, close the urls in the flutter application.
