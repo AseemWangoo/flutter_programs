@@ -52,3 +52,5 @@ GraphQL.dart -> How to use GraphQL in Flutter.
 ShapeBorderClipper.dart -> Make the stylish rectangular cuts into the body of your app.( similar to Shrine App of Google I/O 18)
 
 WebView.dart -> Launch, close the urls in the flutter application.
+
+Table.dart -> Tables are rendered on the main screen along with the Circle Avatar widget...
