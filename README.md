@@ -66,3 +66,5 @@ GoogleMaps.dart -> Contains the google maps api (launched by Flutter Team) in Fl
 Stripe + Flutter -> How to use Stripe for payments with Flutter and Cloud Functions.....
 
 OneSignal.dart -> Send notifications using OneSignal in Flutter.
+
+PWAs -> Google Pay and First PWA
