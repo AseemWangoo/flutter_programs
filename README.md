@@ -1,4 +1,4 @@
-# flutter_programs  (More on http://flatteredwithflutter.com/)
+# flutter_programs  (More on https://flatteredwithflutter.com/)
 YouTube Channel : https://www.youtube.com/user/aseemwangoo
 
 Samples for flutter programs
@@ -72,3 +72,5 @@ PWAs -> Google Pay and First PWA
 Flutter and SpriteWidget -> Rain drop animations using Sprite Widget.
 
 Flutter Crashlytics and Performance Metrics -> Monitor app crashes and performance..
+
+Provider -> Hands on with StreamProvider from Provider Package....
