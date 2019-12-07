@@ -2,7 +2,16 @@
 
 ![](https://github.com/AseemWangoo/flutter_programs/blob/master/d.gif)
 
+## ‍🗣 Speaker at...
+
+* [GDG Devfest Singapore 2019](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
+[![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) 
+
+* [Meetup FlutterSG 2019](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
+[![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
+
 #### Featured In :star:
+[![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
 [![Flutter VN](https://img.shields.io/badge/FlutterVN-%234-blue)](https://medium.com/fluttervn/fluttervn-newsletter-4-a5e60843c228)
 [![Flutter VN](https://img.shields.io/badge/FlutterVN-%232-blue)](https://medium.com/fluttervn/fluttervn-newsletter-2-f254f85498cb) 
 [![Flutter Weekly](https://img.shields.io/badge/Flutter%20Weekly-%2370-blue)](https://newsletry.com/Home/Flutter%20Weekly/18c72df7-d922-4731-4095-08d711e548a3) 
