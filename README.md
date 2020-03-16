@@ -12,6 +12,7 @@
 
 #### Featured In :star:
 [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
+[![Flutter Force](https://img.shields.io/badge/FlutterForce-%2368-blue)](https://medium.com/flutterforce/flutterforce-week-68-12701c18377b) 
 [![Flutter Force](https://img.shields.io/badge/FlutterForce-%2366-blue)](https://medium.com/flutterforce/flutterforce-week-66-51f726aab2bd) 
 [![Flutter VN](https://img.shields.io/badge/FlutterVN-%234-blue)](https://medium.com/fluttervn/fluttervn-newsletter-4-a5e60843c228)
 [![Flutter VN](https://img.shields.io/badge/FlutterVN-%232-blue)](https://medium.com/fluttervn/fluttervn-newsletter-2-f254f85498cb) 
