@@ -21,14 +21,25 @@
 
 #### Featured In :star:
 [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
+[![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
+
+### FlutterTap
+[![Flutter Tap](https://img.shields.io/badge/FlutterTap-%2343-blue)](https://fluttertap.com/issue-43/) 
+
+### FlutterForce
 [![Flutter Force](https://img.shields.io/badge/FlutterForce-%2368-blue)](https://medium.com/flutterforce/flutterforce-week-68-12701c18377b) 
 [![Flutter Force](https://img.shields.io/badge/FlutterForce-%2366-blue)](https://medium.com/flutterforce/flutterforce-week-66-51f726aab2bd) 
+
+### FlutterVN
 [![Flutter VN](https://img.shields.io/badge/FlutterVN-%234-blue)](https://medium.com/fluttervn/fluttervn-newsletter-4-a5e60843c228)
-[![Flutter VN](https://img.shields.io/badge/FlutterVN-%232-blue)](https://medium.com/fluttervn/fluttervn-newsletter-2-f254f85498cb) 
-[![Flutter Weekly](https://img.shields.io/badge/Flutter%20Weekly-%2370-blue)](https://newsletry.com/Home/Flutter%20Weekly/18c72df7-d922-4731-4095-08d711e548a3) 
-[![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
+[![Flutter VN](https://img.shields.io/badge/FlutterVN-%232-blue)](https://medium.com/fluttervn/fluttervn-newsletter-2-f254f85498cb)
+
+### FlutterWeekly
+[![Flutter Weekly](https://img.shields.io/badge/Flutter%20Weekly-%2370-blue)](https://newsletry.com/Home/Flutter%20Weekly/18c72df7-d922-4731-4095-08d711e548a3)
 [![Flutter Weekly](https://img.shields.io/badge/Flutter%20Weekly-%2361-blue)](https://us17.campaign-archive.com/?u=c8d8d18b6e2c6316ddc1d48a0&id=484c61521d) 
 [![Flutter Weekly](https://img.shields.io/badge/Flutter%20Weekly-%233-blue)](https://flutterweekly.news/issue-3/) 
+
+### FlutterResources
 [![Flutter Resources](https://img.shields.io/badge/FlutterX-Resources-blue)](https://flutterx.com/?q=aseemwangoo) 
 
 ## ‍👨‍💻 ‍Published Works...
