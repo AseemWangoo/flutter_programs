@@ -23,6 +23,16 @@
 [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
 [![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
 
+### FlutterX
+[![FlutterxX](https://img.shields.io/badge/FlutterX-Slivers-blue)](https://flutterx.com/flutter-web-and-slivers-2020-08-02)
+[![FlutterxX](https://img.shields.io/badge/FlutterX-Moor-blue)](https://flutterx.com/flutter-and-moor-2019-08-05)
+[![FlutterxX](https://img.shields.io/badge/FlutterX-Providers-blue)](https://flutterx.com/provider-and-its-types-2019-08-05)
+[![FlutterxX](https://img.shields.io/badge/FlutterX-Streams-blue)](https://flutterx.com/flutter-provider-and-streams-2019-06-02)
+[![FlutterxX](https://img.shields.io/badge/FlutterX-FirebasePerf-yellow)](https://flutterx.com/flutter-firebase-performance-and-crashlytics-2019-05-12)
+[![FlutterxX](https://img.shields.io/badge/FlutterX-BackdropFilter-blue)](https://flutterx.com/flutter-backdropfilter-2019-03-24)
+[![FlutterxX](https://img.shields.io/badge/FlutterX-WhatsApp-green)](https://flutterx.com/flutter-whatsapp-and-twilio-2019-02-17)
+[![FlutterxX](https://img.shields.io/badge/FlutterX-CloudStorage-yellow)](https://flutterx.com/firebase-cloud-storage-and-flutter-flutterpub-medium-2019-02-10)
+
 ### FlutterTap
 [![Flutter Tap](https://img.shields.io/badge/FlutterTap-%2343-blue)](https://fluttertap.com/issue-43/) 
 
