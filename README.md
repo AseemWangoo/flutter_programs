@@ -8,6 +8,8 @@
 
 ## ‍🗣 Speaker at...
 
+* [Flutter SG Meetup 2021](https://www.meetup.com/Singapore-Flutter-Meetup/events/275617045/)
+
 * [GDG Devfest Singapore 2019](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
 [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content) 
 
@@ -20,6 +22,7 @@
 [![FLAME-ENGINE](https://img.shields.io/badge/Flame--Engine-Contributor-red)](https://github.com/flame-engine/awesome-flame#other-articles--tutorials) 
 
 #### Featured In :star:
+[![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/275617045/)
 [![GDG-SG 2019](https://img.shields.io/badge/GDG--SG-2019-red)](https://events.withgoogle.com/devfest-singapore-2019/speakers/#content)
 [![Meetup FlutterSG](https://img.shields.io/badge/Meetup-FlutterSG-red)](https://www.meetup.com/Singapore-Flutter-Meetup/events/past/)
 
