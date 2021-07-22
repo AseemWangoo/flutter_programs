@@ -38,7 +38,7 @@ class UserOptionsState extends State<UserOptions> {
         future: loadData(),
         builder: (context, snapshot) {
           if (snapshot.hasData) {
-            return body(snapshot.data);
+            return body(snapshot.data as Map<String, dynamic>);
           } else {
             return Center(
               child: CircularProgressIndicator(),
@@ -126,7 +126,7 @@ class UserOptionsState extends State<UserOptions> {
 
   Future<Map> loadData() async {
     http.Response response = await http.get(
-        Uri.encodeFull("http://dummy.restapiexample.com/api/v1/employee/52"),
+        Uri.parse("http://dummy.restapiexample.com/api/v1/employee/52"),
         headers: {"Accept": "application/json"});
     Map data = jsonDecode(response.body);
     return data;
