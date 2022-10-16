@@ -1,0 +1,10 @@
+name: TimeZoneLibrary
+language: objc
+output: "timezone_bindings.dart"
+exclude-all-by-default: true
+objc-interfaces:
+  include:
+    - "NSTimeZone"
+headers:
+  entry-points:
+    - "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSTimeZone.h"
