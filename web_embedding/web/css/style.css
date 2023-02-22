@@ -1,0 +1,85 @@
+/** The style for the DIV where flutter will be rendered, and the CSS fx */
+#flutter_target {
+    border: 1px solid #aaa;
+    width: 320px;
+    height: 480px;
+    border-radius: 0px;
+    transition: all 150ms ease-in;
+}
+
+#demo_controls input#value {
+    font-size: 32px;
+    line-height: 1em;
+    min-height: 30px;
+    color: #888;
+}
+
+#demo_controls input[type="button"] {
+    line-height: 10px;
+    font-size: 14px;
+    border-radius: 15px;
+    border: 1px solid #aaa;
+    border-style: outset;
+    background-color: #fff;
+    height: 30px;
+    color: #555;
+    transition: all 100ms ease-in-out;
+    cursor: pointer;
+}
+
+#demo_controls input[type="button"]:hover {
+    /* .active:hover background-color: #96B6E3;*/
+    border-color: #1c68d4;
+    background-color: #1c68d4;
+    color: white;
+}
+
+#demo_controls input[type="button"].active {
+    border-color: #1c68d4;
+    background-color: #1c68d4;
+    color: white;
+}
+
+#demo_controls input#value {
+    font-size: 32px;
+    line-height: 1em;
+    min-height: 30px;
+    color: #888;
+}
+
+#demo_controls input#increment#btnVisible {
+    /* Center vertically next to taller input#value */
+    position: relative;
+    top: -6px;
+}
+
+#nav_controls input[type="button"] {
+    line-height: 10px;
+    font-size: 14px;
+    border-radius: 15px;
+    border: 1px solid #aaa;
+    border-style: outset;
+    background-color: #fff;
+    height: 30px;
+    color: #555;
+    transition: all 100ms ease-in-out;
+    cursor: pointer;
+}
+
+#nav_controls input[type="button"]:hover {
+    /* .active:hover background-color: #96B6E3;*/
+    border-color: #1c68d4;
+    background-color: #1c68d4;
+    color: white;
+}
+
+#nav_controls input[type="button"].active {
+    border-color: #1c68d4;
+    background-color: #1c68d4;
+    color: white;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}

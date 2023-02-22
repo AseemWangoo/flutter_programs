@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A Flutter Web Element embedding demo." />
+
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Flutter Element embedding" />
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="icons/favicon.png" />
+
+  <title>Element Embedding</title>
+  <link rel="manifest" href="manifest.json">
+
+  <!-- This script adds the flutter initialization JS code -->
+  <script src="flutter.js" defer></script>
+
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+
+<body>
+  <section class="contents">
+    <!--This is the JS section in the UI-->
+    <aside id="demo_controls">
+      <fieldset id="interop">
+        <legend>JS Interop</legend>
+
+        <!--This is the value box-->
+        <label for="value">
+          Value
+          <input id="value" value="" type="text" readonly />
+        </label>
+
+        <!--This is the button-->
+        <input id="increment" value="Increment" type="button" />
+
+        <!--This is the show/hide button-->
+        <input id="btnVisible" value="Show Navigation" type="button" />
+      </fieldset>
+    </aside>
+
+    <aside id="nav_controls">
+      <fieldset id="interop">
+        <legend>Go to</legend>
+
+        <!--This is the button-->
+        <input id="google" value="Google" type="button" />
+
+        <!--This is the button-->
+        <input id="flutter" value="Flutter" type="button" />
+      </fieldset>
+    </aside>
+
+    <br />
+    <!--This is the div which contains the flutter app-->
+    <article>
+      <div id="flutter_target" class="center"></div>
+    </article>
+  </section>
+
+  <script>
+    window.addEventListener("load", function (ev) {
+      // Embed flutter into div#flutter_target
+      let target = document.querySelector("#flutter_target");
+      _flutter.loader.loadEntrypoint({
+        onEntrypointLoaded: async function (engineInitializer) {
+          let appRunner = await engineInitializer.initializeEngine({
+            hostElement: target,
+          });
+          await appRunner.runApp();
+        },
+      });
+    });
+  </script>
+  <script src="js/js-interop.js" defer></script>
+</body>
+
+</html>
